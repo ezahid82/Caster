@@ -7,4 +7,4 @@ Make a caster for school project.
 
 ### Pictures
 
-![The Mount](Image/Base.png)
+![The Base](Image/Base.png)
