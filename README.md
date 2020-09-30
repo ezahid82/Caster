@@ -4,11 +4,11 @@ Make a caster for school project.
 
 ##  URLS
 
-[onshape](https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/5ce63bca6f1320922bb6f61c)
+https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/c598c06a8781c818493c00cd
 
-https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/8da632b1b09e763e5e22e9f7
 
 ## Pictures
+
 
 ### Base
 
@@ -25,6 +25,11 @@ https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5
 ![The Fork of the caster](Pictures%20For%20the%20Caster/Fork.png)
 
 
+### Tire 
+
+![The Tire of the caster](Pictures%20For%20the%20Caster/Tire.png)
+
+
 #### base mini picture
 
 <img src="Pictures For the Caster/Base.png " alt="base" width="100" height="100">
@@ -38,4 +43,11 @@ https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5
 #### Fork mini picture 
 
 <img src="Pictures For the Caster/Fork.png " alt="base" width="100" height="100">
+
+
+#### Tire mini picture
+
+<img src="Pictures For the Caster/Tire.png " alt="base" width="100" height="100">
+
+
 
