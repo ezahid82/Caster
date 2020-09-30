@@ -4,7 +4,7 @@ Make a caster for school project.
 
 ##  URLS
 
-https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/c598c06a8781c818493c00cd
+https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/01c825a47129b087eef90d7d
 
 
 ## Pictures
@@ -30,6 +30,11 @@ https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5
 ![The Tire of the caster](Pictures%20For%20the%20Caster/Tire.png)
 
 
+### Wheel
+
+![The Tire of the caster](Pictures%20For%20the%20Caster/Wheel.png)
+
+
 #### base mini picture
 
 <img src="Pictures For the Caster/Base.png " alt="base" width="100" height="100">
@@ -48,6 +53,12 @@ https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5
 #### Tire mini picture
 
 <img src="Pictures For the Caster/Tire.png " alt="base" width="100" height="100">
+
+
+#### Wheel mini picture
+
+<img src="Pictures For the Caster/Wheel.png " alt="base" width="100" height="100">
+
 
 
 
