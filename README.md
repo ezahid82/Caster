@@ -140,3 +140,27 @@ this part wasn't really hard to make. the challenging part was when you had to u
 
 ---
 
+
+
+## Sub Assembly
+
+
+### discription 
+this is the sub assembly of the caster. it has the wheel,tire,axle,bearings. the tire was mated to the wheel by the fastened mate (**m**) the axle is located at the center of the wheel, while the bearing is located in the axle.
+
+### Evidence
+
+https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/37c51f34ec62b8acd8a5d39a
+
+### Image
+
+![The sub-assembly of the caster](Pictures%20For%20the%20Caster/Sub-Assembly.png)
+
+### Reflection
+this was my first time assembling something in onshape. it seemed difficult at first looks, but onshape has made it really easy to mate and assemble things together. I used the fastened mate(**m**) to mate the wheel and the tire together. Then I used the revolved mate (**m**) to put the bearing around the axle.
+
+
+---
+
+
+
