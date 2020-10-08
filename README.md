@@ -119,3 +119,24 @@ the wheel was the hardest one so far. it took a really long time to finish, and 
 
 ---
 
+
+## Axel,Collar
+
+
+### Description
+The 6th and 7th assignment is the axel and collar. it is a long tube with two flat tops that are used to hold the bottom of the screws. The flat part is 10 mm long each, the diameter of the tube is 10 mm. the diameter collar is 15 mm. 
+
+### Evidence
+
+https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/1f965089afcc83a9634eb144
+
+### Image
+
+
+
+### Reflection
+this part wasn't really hard to make. the challenging part was when you had to use the (use) part (shortcut**u**) to choose two of the sides of the collar.then use a circle (**c**), qonstruction (**q**) to make the whole in the collar.
+
+
+---
+
