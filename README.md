@@ -164,3 +164,17 @@ this was my first time assembling something in onshape. it seemed difficult at f
 
 
 
+## Final Assembly
+
+
+### discription
+the is the final assembly for the caster. it has bolts,nuts, and pins in the holes. This was a combination of the sub-assembly which made it easier to put all of the together. I inserted the collars, the sub-assemly, the base, and the mount to make the final product. I used revolve mate(**m**) alot to make them be able to rotate.
+
+### Evidence
+https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/a164747c2d8974a85d42aaf8
+
+### Image
+
+
+### Reflection
+This final assignment was a bit challenging. useing revolve mates, parallel mates, and fastened mates to put all of it together. I had to revelove(short-cut**m**) most of the parts to make them be able to rotate. I ran into some problems with the mount and the base that required me to go back and change the dimentions of the holes. The fun part was at teh end were I had to put screws in the holes of the base and the mount. the chalenging part was the sub-assembly where I also had the wronge dimentions for the fork and so I wasn't able to put the bearing in.  
