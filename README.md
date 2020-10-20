@@ -179,3 +179,43 @@ https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5
 
 ### Reflection
 This final assignment was a bit challenging. useing revolve mates, parallel mates, and fastened mates to put all of it together. I had to revelove(short-cut**m**) most of the parts to make them be able to rotate. I ran into some problems with the mount and the base that required me to go back and change the dimentions of the holes. The fun part was at teh end were I had to put screws in the holes of the base and the mount. the chalenging part was the sub-assembly where I also had the wronge dimentions for the fork and so I wasn't able to put the bearing in.  
+
+
+
+---
+
+
+# Dowel-pins
+
+
+### Discripsion
+
+the dowel pins are small pins that would be put in wood frames to hold them together. The dowel pins were configured so that I can use many sizes at any time.
+the pins have 16 different sizes and diameters. teh lengths are (1/2 in,  1 in, 1+1/2 in, 2 in.)
+
+
+### evidence
+
+https://cvilleschools.onshape.com/documents/9a7ff9b9b55b326eb6dc8a7f/w/bc3542aa0d96cb770fa41e29/e/e5cd2882562b643f4aa680eb?configuration=List_2EDkHCiUpfIzB8%3DDefault%3BList_agcLTEd6FDKZXD%3D_2_in%3BList_dOfd1W48FPLq6l%3DDefault
+
+
+### image
+
+![dowel pins iamge ](pictures%20for%20dowel%20pins/Dowel%20Pins.png)
+
+### reflection
+
+I had lots of problems with the videos for making the dowel pins. I wasn't able to make the last part and finish the dowel pins, but I was able to make the pins. It seemed hard at first. But after trying it, it was really easy. I made 16 different sizes of pins with different diameters and lenghts.
+
+
+
+---
+
+
+
+
+
+
+
+
+
