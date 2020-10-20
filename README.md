@@ -201,7 +201,7 @@ https://cvilleschools.onshape.com/documents/9a7ff9b9b55b326eb6dc8a7f/w/bc3542aa0
 
 ### image
 
-![dowel pins iamge ](Pictures%20For%20the%20dowel%20pins/Dowel%20Pins.png)
+![dowel pins iamge ](Pictures%20For%20the%20Dowel%20Pins/Dowel%20Pins.png)
 
 ### reflection
 
