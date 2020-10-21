@@ -15,9 +15,11 @@ the fist assignment is to make a base for the caster. The base's dimensions are 
 
 https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/01c825a47129b087eef90d7d
 
+
 ### image
 
 ![The Base of the caster](Pictures%20For%20the%20Caster/Base.png)
+
 
 ### reflection 
 
@@ -29,7 +31,11 @@ I leanred that on-shape is a very easy to use, and fast way to make objects and 
 * extruding both add and remove (shortcut key **E**)
 * linear patterns (no shortcut)
 
+
+
 ---
+
+
 
 
 ## Mount
@@ -49,12 +55,17 @@ https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5
 
 ![The Mount of the caster](Pictures%20For%20the%20Caster/Mount.png)
 
+
 ### Reflection
 
 
 making the mount was relly easy. watching someone do it and then you see them and go along, makes it really easy to do the mount.
 
+
+
+
 ---
+
 
 
 ### Fork
@@ -79,7 +90,11 @@ https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5
 
 This was a really challenging assignment. It took lots of diminsioning (**D**), fillet(**shift-f**), extrude (**shift-e**). But I was able to do it smoothly, even though  I made some mistakes along the way.
 
+
+
+
 ---
+
 
 
 ## Tire
@@ -99,14 +114,21 @@ https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5
 
 ![The Tire of the caster](Pictures%20For%20the%20Caster/Tire.png)
 
+
 ### Reflection
 
 At first I thought that this was going to be hard. But it wasn't, first I made a 2D shape that was made from a rectangle. the rectangle was revolved around the horizantle construction line to give it the circular shape. 
 
+
+
+
 ---
 
 
+
+
 ## Wheel
+
 
 ### Description
 
@@ -117,15 +139,20 @@ the fifth assignment is to make a wheel to hold the tire. it has a diametere of 
 
 https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/01c825a47129b087eef90d7d
 
+
 ### Image
 
 ![The wheel of the caster](Pictures%20For%20the%20Caster/Wheel.png)
+
 
 ### Reflection
 
 the wheel was the hardest one so far. it took a really long time to finish, and there was lots of diminsioning (**D**), fillet (**shift-f**), and extruding (**E**)
 
+
+
 ---
+
 
 
 ## Axle,Collar
@@ -140,12 +167,16 @@ The 6th and 7th assignment is the axle and collar. it is a long tube with two fl
 
 https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/1f965089afcc83a9634eb144
 
+
 ### Image
 
 ![The Axle,Collar of the caster](Pictures%20For%20the%20Caster/Axel,Collar.png)
 
+
 ### Reflection
 this part wasn't really hard to make. the challenging part was when you had to use the (use) part (shortcut**u**) to choose two of the sides of the collar.then use a circle (**c**), qonstruction (**q**) to make the whole in the collar.
+
+
 
 
 ---
@@ -164,12 +195,16 @@ this is the sub assembly of the caster. it has the wheel,tire,axle,bearings. the
 
 https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/37c51f34ec62b8acd8a5d39a
 
+
 ### Image
 
 ![The sub-assembly of the caster](Pictures%20For%20the%20Caster/Sub-Assembly.png)
 
+
 ### Reflection
 this was my first time assembling something in onshape. it seemed difficult at first looks, but onshape has made it really easy to mate and assemble things together. I used the fastened mate(**m**) to mate the wheel and the tire together. Then I used the revolved mate (**m**) to put the bearing around the axle.
+
+
 
 
 ---
@@ -185,11 +220,14 @@ the is the final assembly for the caster. it has bolts,nuts, and pins in the hol
 
 
 ### Evidence
+
 https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/a164747c2d8974a85d42aaf8
+
 
 ### Image
 
 ![The final-assembly of the caster](Pictures%20For%20the%20Caster/Final-Assembly.png)
+
 
 ### Reflection
 This final assignment was a bit challenging. useing revolve mates, parallel mates, and fastened mates to put all of it together. I had to revelove(short-cut**m**) most of the parts to make them be able to rotate. I ran into some problems with the mount and the base that required me to go back and change the dimentions of the holes. The fun part was at teh end were I had to put screws in the holes of the base and the mount. the chalenging part was the sub-assembly where I also had the wronge dimentions for the fork and so I wasn't able to put the bearing in.  
@@ -201,9 +239,6 @@ This final assignment was a bit challenging. useing revolve mates, parallel mate
 
 # Dowel-pins
 
-
-
-## dowel-pins
 
 
 ### Discripsion
@@ -221,6 +256,7 @@ https://cvilleschools.onshape.com/documents/9a7ff9b9b55b326eb6dc8a7f/w/bc3542aa0
 
 ![dowel pins iamge ](Picture%20For%20the%20Dowel%20Pins/Dowel%20Pins.png)
 
+
 ### reflection
 
 I had lots of problems with the videos for making the dowel pins. I wasn't able to make the last part and finish the dowel pins, but I was able to make the pins. It seemed hard at first. But after trying it, it was really easy. I made 16 different sizes of pins with different diameters and lenghts.
@@ -234,17 +270,22 @@ I had lots of problems with the videos for making the dowel pins. I wasn't able 
 
 ### discription 
 
+the frame of the picture frame is in the shape of a trapizoid. it is 200 mm long, and the sides are 45 degrees. It is 20 mm wide and has two holes in each side. it is also configured to be (**400 mm**) long, and (**200 mm**) short. 
+
+
 ### evidence
+
+https://cvilleschools.onshape.com/documents/9a7ff9b9b55b326eb6dc8a7f/w/bc3542aa0d96cb770fa41e29/e/952c6926175b1797cc99952e?configuration=List_VBb2oCSGNBNlzM%3DDefault
+
 
 ### image
 
+![Frame Part iamge ](Picture%20For%20the%20Dowel%20Pins/Frame%20Part.png)
+
+
 ### reflection 
 
-
-
-
-
-
+this was the frame part of the whole picture frame. it was really hard to configure it, since the measurments were incorrect. I had to redimention alot of the trapezoid to the perfect amount for hte configuration ot work. I finished the frame part correctly and configured a long and a short part, and moved on to the final assembly. 
 
 
 
@@ -265,10 +306,18 @@ https://cvilleschools.onshape.com/documents/9a7ff9b9b55b326eb6dc8a7f/w/bc3542aa0
 
 ### image
 
-![picture frames iamge ](Picture%20For%20the%20Dowel%20Pins/Dowel%20Frame.png)
+![Full picture frames iamge ](Picture%20For%20the%20Dowel%20Pins/Frame.png)
+
 
 ### reflection
 
-This was the final assembly 
+This was the final assembly of the dowel pins. it was really easy to do, it only required revolve and fastened mates to assemble all of it. I had to redimention the holes that whould hold the dowel pins in place because it was too big. I also had to fix my frame part sketch because it wouldn't configure to the lengths needed.
+
+
+
+
+---
+
+
 
 
