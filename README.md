@@ -61,7 +61,10 @@ making the mount was relly easy. watching someone do it and then you see them an
 
 
 ### Description
+
 the third assignment is about making a fork for the caster. it has two circles at teh top of the two forks. It is 10 mm wide the fork is 56 mm high. the circular ring of the fork is 78 mm in the diameter.
+
+
 ### Evidence
 
 https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/8da632b1b09e763e5e22e9f7
@@ -83,7 +86,9 @@ This was a really challenging assignment. It took lots of diminsioning (**D**), 
 
 
 ### Description
+
 the forth assignment is about making the tire of the caster. it has a dark color. it is 80 mm in diameters, and has a 20 mm center distance. 
+
 
 ### Evidence
 
@@ -104,7 +109,10 @@ At first I thought that this was going to be hard. But it wasn't, first I made a
 ## Wheel
 
 ### Description
+
 the fifth assignment is to make a wheel to hold the tire. it has a diametere of 80 mm. it is made up of 4 circles, 80 mm, 70 mm, 25 mm, 10 mm. 
+
+
 ### Evidence
 
 https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/01c825a47129b087eef90d7d
@@ -124,7 +132,9 @@ the wheel was the hardest one so far. it took a really long time to finish, and 
 
 
 ### Description
+
 The 6th and 7th assignment is the axle and collar. it is a long tube with two flat tops that are used to hold the bottom of the screws. The flat part is 10 mm long each, the diameter of the tube is 10 mm. the diameter collar is 15 mm. 
+
 
 ### Evidence
 
@@ -146,7 +156,9 @@ this part wasn't really hard to make. the challenging part was when you had to u
 
 
 ### discription 
+
 this is the sub assembly of the caster. it has the wheel,tire,axle,bearings. the tire was mated to the wheel by the fastened mate (**m**) the axle is located at the center of the wheel, while the bearing is located in the axle.
+
 
 ### Evidence
 
@@ -168,7 +180,9 @@ this was my first time assembling something in onshape. it seemed difficult at f
 
 
 ### discription
+
 the is the final assembly for the caster. it has bolts,nuts, and pins in the holes. This was a combination of the sub-assembly which made it easier to put all of the together. I inserted the collars, the sub-assemly, the base, and the mount to make the final product. I used revolve mate(**m**) alot to make them be able to rotate.
+
 
 ### Evidence
 https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5bc8683a0a409457/e/a164747c2d8974a85d42aaf8
@@ -186,6 +200,10 @@ This final assignment was a bit challenging. useing revolve mates, parallel mate
 
 
 # Dowel-pins
+
+
+
+## dowel-pins
 
 
 ### Discripsion
@@ -212,10 +230,45 @@ I had lots of problems with the videos for making the dowel pins. I wasn't able 
 ---
 
 
+## frame 
+
+### discription 
+
+### evidence
+
+### image
+
+### reflection 
 
 
 
 
 
+
+
+
+
+---
+
+## final assembly
+
+
+### Discription
+
+This is the final part/ assembly for the dowel-pins assignment. it has two long frame parts (**400 mm**), and two short frame parts (**400 mm**) assembled together. it also has 8 dowel pins in total. four long pins (**2 in**) and four short pins (**1 in**) holding the frames together. 
+
+
+### evidence
+
+https://cvilleschools.onshape.com/documents/9a7ff9b9b55b326eb6dc8a7f/w/bc3542aa0d96cb770fa41e29/e/952c6926175b1797cc99952e?configuration=List_VBb2oCSGNBNlzM%3DDefault
+
+
+### image
+
+![picture frames iamge ](Picture%20For%20the%20Dowel%20Pins/Dowel%20Frame.png)
+
+### reflection
+
+This was the final assembly 
 
 
