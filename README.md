@@ -318,6 +318,130 @@ This was the final assembly of the dowel pins. it was really easy to do, it only
 
 ---
 
+# Cube Challenge
+
+
+
+
+## cube
+
+
+
+### discription 
+
+The cube is the first part of the project. It is (**20 mm**) in each side. It is also extruded (**20 mm**). It has four cylinders that are (**8 mm**) in diameteres. and is extruded (**10 mm**) each.
+
+
+### evidence 
+
+[Cube](https://cvilleschools.onshape.com/documents/b7d56f85f3b228bcfed73e9b/w/7723121720388cc007797222/e/f5387873142d005ba4a46382)
+
+
+### image 
+
+![Cube iamge ](Cube%20Challenge%20Pictures/Cube.png)
+
+
+### reflection
+
+The cube was really easy to do. I made all the measurements and did the extrusions. Then made a circle that was (**8 mm**) wide and (**10 mm**) long. I used the circular pattern and added 3 more circles and then finished the cube.
+
+
+
+
+---
+
+## Spinner Shaft
+
+
+
+### discription 
+
+The spinner shaft is a cylinder that is cutout in the middle. it has two forks that are (**30 mm**) long. they both have holes that are (**8 mm**) in diameter. There is a cylinder at the bottm that is (**10 mm**) in diameter, and (**10 mm**) long.
+
+
+### evidence
+
+[Spinner Shaft](https://cvilleschools.onshape.com/documents/b7d56f85f3b228bcfed73e9b/w/7723121720388cc007797222/e/85ae21ad2d66923f4133e4a4)
+
+
+### image 
+
+![Spinner Shaft iamge ](Cube%20Challenge%20Pictures/Spinner%20Shaft.png)
+
+
+### reflection
+
+this was teh second part of the project, it wasn't that hard, I just made to cylinders and extruded the larger one out by (**20 mm**) and filleted the edges of the two forks and finished it.
+
+
+
+
+---
+
+## Bracket 
+
+
+
+### discription
+
+This is the final solo part to make in this project. It is (**110 mm**) long and has two hanldes on the and on the bottom measuring (**50 mm**) and (**30 mm**). The bracket also has another line that is (**50 mm**) long, and is tilted (**150 degrees**). It is extruded (**40 mm**) and is thickend to be(**5 mm**). It has two holes that are (**10 mm**) in diameter. 
+
+
+### evidence
+
+[Bracket](https://cvilleschools.onshape.com/documents/b7d56f85f3b228bcfed73e9b/w/7723121720388cc007797222/e/ee3cd6ceee32a3d5f68f0de1)
+
+
+### image
+
+![Bracket iamge ](Cube%20Challenge%20Pictures/Bracket.png)
+
+
+### reflection 
+
+the bracket was the hardest part for me to do. I didn't made the sketch properly to make the bottom line to be (**150 degrees**) from the bottom handle of the bracket. I had to delete the entire sketch and start by using the (**line**) feature to make the entire bracket and make the degrees and dimentions correct. 
+
+
+
+
+---
+
+## Final Assembly 
+
+
+
+### discription
+
+This is the final assembly of the Cube Challenge. it has all the components from before mates together. there are a total of three cylindrical mates and one revolute mate. ther is one cube and two spinner shafts. two of the cylindrical mates are connected to the cube and the other one is connected to the bottom spinner shaft. the revolute mate is connected to the top spinner shaft. 
+
+
+### evidence 
+
+[Final Assembly](https://cvilleschools.onshape.com/documents/b7d56f85f3b228bcfed73e9b/w/7723121720388cc007797222/e/2f320afb2ec45d5cd4485bab)
+
+
+### image 
+
+![Final Assembly iamge ](Cube%20Challenge%20Pictures/Final%20Assembly.png)
+
+
+### reflection 
+
+this was the final assembly for the cube challenge project. the assembly wasn't hard, but the mating was really challenging to do. there were errors showing up every time I tried to mate the spinner shafts and the cube together. I had to change each mate to remove the errors and finally finished with the assembly.
+
+
+
+
+---
+
+
+
+
+
+
+
+
 
 
 
