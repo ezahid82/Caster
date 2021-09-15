@@ -18,7 +18,7 @@ https://cvilleschools.onshape.com/documents/77e4b098defab6604602522c/w/31f1488f5
 
 ### image
 
-![The Base of the caster](Pictures%20For%20the%20Caster/Base.png)
+![ Base of the caster](Pictures%20For%20the%20Caster/Base.png)
 
 
 ### reflection 
